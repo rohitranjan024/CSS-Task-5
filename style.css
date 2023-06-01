@@ -1,0 +1,46 @@
+ul.hnb{
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    display: block;
+    background-color:rgb(210, 211, 212);
+    font-size: large;
+    text-align: center;
+    border-right:1px solid #bbb;
+
+}
+
+.box{
+    width:392px;
+    height: 49px;
+    border: 1px solid black;
+    padding: 2px;
+}
+
+li.a3{
+    float:left;
+    display: block;
+    padding: 14px 16px;
+    background-color:rgb(164, 164, 164);
+    color: white;
+    border-right:1px solid blue;
+    
+}
+
+li.a4{
+    float:left;
+    padding: 14px 16px;
+    display: block;
+    color: blue;
+    background-color:rgb(227, 227, 227);
+    border-right:1px solid blue;
+}
+
+li.a5{
+    float:left;
+    padding: 24.3px 50px;
+    display: block;
+    color: blue;
+    background-color:rgb(227, 227, 227);
+    border-right:1px solid black;
+}
